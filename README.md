@@ -1,4 +1,5 @@
-# Flight Fare Prediction: 
+# Flight Fare Prediction:
+This is the complete end-to-end project which will give the estimate of the total flight fare using Machine Learning model.
 
 ## Table of Content
   * [Demo](#demo)
